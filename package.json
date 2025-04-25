@@ -1,0 +1,25 @@
+{
+  "name": "express2",
+  "version": "1.0.0",
+  "description": "here you have a products array.you should implement CRUD routes using express and it's folder structure.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raha-heidari/express2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raha-heidari/express2/issues"
+  },
+  "homepage": "https://github.com/raha-heidari/express2#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
